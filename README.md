@@ -4,7 +4,7 @@ Implementation of CycleGAN in PyTorch. This is a slightly modified version of th
 ## Results
 The model was trained on Real Photo <-> Monet Style Photo dataset.
 
-|1st row: Input  /  2nd column: Generated|
+|1st row: Input    /       2nd row: Generated|
 |:---:|
 |![](results/realimage_17.png)  ![](results/realimage_10.png)|
 |![](results/generated_monet_17.png)  ![](results/generated_monet_10.png)|
