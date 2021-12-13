@@ -6,8 +6,8 @@ The model was trained on Real Photo <-> Monet Style Photo dataset.
 
 |1st column: Input / 2nd column: Generated / 3rd row: Re-converted|
 |:---:|
-|![](results/generated_monet_17.png)  ![](results/generated_monet_10.png)|
 |![](results/realimage_17.png)  ![](results/realimage_10.png)|
+|![](results/generated_monet_17.png)  ![](results/generated_monet_10.png)|
 
 
 ### Monet Style Dataset
