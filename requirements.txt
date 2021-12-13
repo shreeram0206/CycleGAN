@@ -4,5 +4,4 @@ albumentations
 matplotlib
 tqdm
 numpy
-pycopy-copy
 Pillow
