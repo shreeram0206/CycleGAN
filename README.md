@@ -12,7 +12,7 @@ The model was trained on Real Photo <-> Monet Style Photo dataset.
 
 ### Monet Style Dataset
 The dataset can be downloaded from Kaggle: [link](https://www.kaggle.com/c/gan-getting-started/data).
-Split the dataset into 2 folders "train" and "val" and add all monet style images inside "monet" folder and the real images inside "real" forlder.
+Split the dataset into 2 folders "train" and "val" and add all monet style images inside "monet" folder and the real images inside "real" folder.
 The folder tree will look something like this:
 ```
 ├── monet_data
