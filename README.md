@@ -23,8 +23,6 @@ The folder tree will look something like this:
 |   |   ├── monet
 |   |   └── real
 ```
-### Using pretrained weights
-Clone the repository and put the pth.tar files in the directory with all the python files. Make sure you put LOAD_MODEL=True in the config.py file.
 
 ### Training
 Edit the config.py file to match the setup you want to use. Then run train.py
