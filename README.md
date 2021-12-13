@@ -1,10 +1,10 @@
 # CycleGAN
-A clean, simple and readable implementation of CycleGAN in PyTorch. This is a slightly modified version of the original paper, so this implementation should be pretty much identical to the paper. The results from this implementation is on par with the paper, Some examples results are included below.
+Implementation of CycleGAN in PyTorch. This is a slightly modified version of the original paper, so this implementation should be pretty much identical to the paper. The results from this implementation is on par with the paper, Some examples results are included below.
 
 ## Results
 The model was trained on Real Photo <-> Monet Style Photo dataset.
 
-|1st column: Input / 2nd column: Generated / 3rd row: Re-converted|
+|1st column: Input / 2nd column: Generated|
 |:---:|
 |![](results/realimage_17.png)  ![](results/realimage_10.png)|
 |![](results/generated_monet_17.png)  ![](results/generated_monet_10.png)|
