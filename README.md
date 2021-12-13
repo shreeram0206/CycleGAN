@@ -25,7 +25,7 @@ The folder tree will look something like this:
 ```
 
 ### Training
-Edit the config.py file to match the setup you want to use and set the appropriate path for training and validation data. Then run train.py
+Edit the config.py file to match the setup you want to use and set the appropriate path for training and validation data (TRAIN_DIR, VAL_DIR in config.py). Then run train.py
 
 ## CycleGAN paper
 ### Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks by Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros
